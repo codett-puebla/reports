@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="jasperreports-6.16.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Descargas/jasperreports-6.16.0.jar!/" />
+      <root url="jar://$USER_HOME$/Descargas/librerias/com.lowagie.text-2.1.7.jar!/" />
+      <root url="jar://$USER_HOME$/Descargas/librerias/commons-beanutils-1.8.3.jar!/" />
+      <root url="jar://$USER_HOME$/Descargas/librerias/commons-digester-2.1.jar!/" />
+      <root url="jar://$USER_HOME$/Descargas/librerias/commons-javaflow.jar!/" />
+      <root url="jar://$USER_HOME$/Descargas/librerias/commons-logging-1.1.jar!/" />
+      <root url="jar://$USER_HOME$/Descargas/librerias/mysql-connector-java-5.1.40-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

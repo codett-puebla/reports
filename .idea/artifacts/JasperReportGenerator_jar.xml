@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact name="JasperReportGenerator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JasperReportGenerator_jar</output-path>
+    <root id="root">
+      <element id="archive" name="JasperReportGenerator.jar">
+        <element id="module-output" name="JasperReportGenerator" />
+      </element>
+      <element id="library" level="project" name="commons.collections-3.2.1" />
+      <element id="library" level="project" name="com.guicedee.services:commons-collections4:1.0.1.4" />
+      <element id="library" level="project" name="jasperreports-6.16.0" />
+      <element id="library" level="project" name="com.fasterxml.jackson.core:jackson-databind:2.1.2" />
+      <element id="library" level="project" name="itext-2.1.7.js4" />
+      <element id="library" level="project" name="org.apache.poi:poi:3.16" />
+    </root>
+  </artifact>
+</component>

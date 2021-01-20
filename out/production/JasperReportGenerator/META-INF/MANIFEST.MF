@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Main-Class: com.codett.Main
+Class-Path: commons.collections-3.2.1.jar commons-collections4-1.0.1.4.j
+ ar jasperreports-6.16.0.jar com.lowagie.text-2.1.7.jar commons-beanutil
+ s-1.8.3.jar commons-digester-2.1.jar commons-javaflow.jar commons-loggi
+ ng-1.1.jar mysql-connector-java-5.1.40-bin.jar jackson-databind-2.1.2.j
+ ar jackson-annotations-2.1.1.jar jackson-core-2.1.1.jar itext-2.1.7.js4
+ .jar poi-3.16.jar commons-codec-1.10.jar commons-collections4-4.1.jar
+
