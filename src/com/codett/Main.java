@@ -40,7 +40,7 @@ public class Main {
                     xlsReportConfiguration.setOnePagePerSheet(true);
                     xlsReportConfiguration.setRemoveEmptySpaceBetweenRows(false);
                     xlsReportConfiguration.setDetectCellType(true);
-                    xlsReportConfiguration.setWhitePageBackground(false);
+                    xlsReportConfiguration.setWhitePageBackground(true);
                     xlsExporter.setConfiguration(xlsReportConfiguration);
                     xlsExporter.exportReport();
                 } catch (JRException ex) {
